@@ -1,4 +1,4 @@
-# Testing Jokes/Memes
+# Software Testing Jokes/Memes
 
 Collection of software testing related jokes/memes.
 
