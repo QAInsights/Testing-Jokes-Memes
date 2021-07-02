@@ -9,7 +9,10 @@ At the top of the page, add your meme as below followed by ***
 ```
 Add your image to images dir.
 Add below reference in the README.md at the top.
-![ALT TEXT](./images/<path of file>.jpeg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/GruPlan.jpg" />
+</p>
 
 > Credit <Name or Reference link>
 
