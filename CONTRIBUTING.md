@@ -8,8 +8,10 @@ At the top of the page, add your meme as below followed by ***
 
 ```
 Add your image to images dir.
-Add reference in the README file at the bottom.
+Add below reference in the README.md at the top.
 ![ALT TEXT](./images/<path of file>.jpeg)
+
+> Credit <Name or Reference link>
 
 ***
 ```
