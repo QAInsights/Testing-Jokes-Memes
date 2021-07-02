@@ -4,24 +4,21 @@
 
 ## Adding meme
 
-At the top of the page, add your meme as below followed by ***
+- At the top of the page, add your meme as below followed by ***
+- Add your image to images dir.
+- Add below reference in the README.md at the top.
 
 ```
-Add your image to images dir.
-Add below reference in the README.md at the top.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/GruPlan.jpg" />
 </p>
 
-> Credit <Name or Reference link>
+> Credit: <Name or Reference link>
 
 ***
 ```
 
 ## Adding joke
-
-
 ```
 Text goes here.
 
