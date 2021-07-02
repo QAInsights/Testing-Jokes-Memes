@@ -19,6 +19,8 @@
 
 ![Selenium](./memes/Selenium.jpg)  
 
+![RTVsErrors](./memes/RTVsErrors.jpg)
+
 
 > 🙏 Please credit QAInsights, if you are using the above memes
 
