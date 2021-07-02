@@ -7,44 +7,57 @@
 
 ## 🎨 Memes ⚡
 
-
-![GruPlan](./memes/GruPlan.jpg)  
-
-> Credit NaveenKumar Namachivayam
-
-***
-
-![GarbageCollection](./memes/GarbageCollection.jpg)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/GruPlan.jpg" />
+</p>
 
 > Credit NaveenKumar Namachivayam
 
 ***
 
-![AppPerformance](./memes/AppPerformance.jpg)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/GarbageCollection.jpg" />
+</p>
 
 > Credit NaveenKumar Namachivayam
 
 ***
 
-![LoadVsServer](./memes/LoadVsServer.jpg)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/AppPerformance.jpg" />
+</p>
 
 > Credit NaveenKumar Namachivayam
 
 ***
 
-![PT-Experience](./memes/PT-Experience.jpg)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/LoadVsServer.jpg" />
+</p>
 
 > Credit NaveenKumar Namachivayam
 
 ***
 
-![Selenium](./memes/Selenium.jpg)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/PT-Experience.jpg" />
+</p>
 
 > Credit NaveenKumar Namachivayam
 
 ***
 
-![RTVsErrors](./memes/RTVsErrors.jpg)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/Selenium.jpg" />
+</p>
+
+> Credit NaveenKumar Namachivayam
+
+***
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/RTVsErrors.jpg" />
+</p>
 
 > Credit NaveenKumar Namachivayam
 
