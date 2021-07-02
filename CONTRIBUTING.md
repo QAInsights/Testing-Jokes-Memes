@@ -18,14 +18,14 @@ Add reference in the README file at the bottom.
 
 
 ```
-Joke
+Text goes here.
 
 > <p align="left">Author Name via <a href="https://example.com">Reference Link</a></p>
 
 ***
 ```
 
-- Submitting a PR
+# Submitting a PR
 - Fork and clone the repository
 - Add your item at the end of the appropriate section after adding a line. Memes go at the top. Jokes go at the bottom.
 - Push to your fork and submit a PR
