@@ -6,6 +6,23 @@ Collection of software testing related jokes/memes.
 
 Please submit a [PR](https://github.com/QAInsights/Testing-Jokes-Memes/pulls) with the relevant sources or your own jokes/memes. I will merge them.
 
+## 🎨 Memes by QAInsights ⚡
+
+### 🙏 Please credit if you are using the below memes 🙏
+
+![GruPlan](./memes/GruPlan.jpg)  
+
+![GarbageCollection](./memes/GarbageCollection.jpg)  
+
+![AppPerformance](./memes/AppPerformance.jpg)  
+
+![LoadVsServer](./memes/LoadVsServer.jpg)  
+
+![PT-Experience](./memes/PT-Experience.jpg)  
+
+![Selenium](./memes/Selenium.jpg)  
+
+
 ## 😂 Jokes
 
 *A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 99999999999 beers. Orders a lizard. Orders -1 beers. Orders a ueicbksjdhd.  
