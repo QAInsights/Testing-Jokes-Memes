@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/GruPlan.jpg" />
 </p>
 
-> Credit NaveenKumar Namachivayam
+> Credit: NaveenKumar Namachivayam
 
 ***
 
@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/GarbageCollection.jpg" />
 </p>
 
-> Credit NaveenKumar Namachivayam
+> Credit: NaveenKumar Namachivayam
 
 ***
 
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/AppPerformance.jpg" />
 </p>
 
-> Credit NaveenKumar Namachivayam
+> Credit: NaveenKumar Namachivayam
 
 ***
 
@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/LoadVsServer.jpg" />
 </p>
 
-> Credit NaveenKumar Namachivayam
+> Credit: NaveenKumar Namachivayam
 
 ***
 
@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/PT-Experience.jpg" />
 </p>
 
-> Credit NaveenKumar Namachivayam
+> Credit: NaveenKumar Namachivayam
 
 ***
 
@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/Selenium.jpg" />
 </p>
 
-> Credit NaveenKumar Namachivayam
+> Credit: NaveenKumar Namachivayam
 
 ***
 
@@ -59,13 +59,9 @@
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/RTVsErrors.jpg" />
 </p>
 
-> Credit NaveenKumar Namachivayam
+> Credit: NaveenKumar Namachivayam
 
 ***
-
-
-
-
 
 ## 😂 Jokes
 
