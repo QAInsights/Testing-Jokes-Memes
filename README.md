@@ -4,22 +4,50 @@
 > Send me a PR if you know a good joke or meme. Please add the credit if available.
 
 
-## 🎨 Memes by QAInsights ⚡
+## 🎨 Memes ⚡
 
 
 ![GruPlan](./memes/GruPlan.jpg)  
 
+> Credit NaveenKumar Namachivayam
+
+***
+
 ![GarbageCollection](./memes/GarbageCollection.jpg)  
+
+> Credit NaveenKumar Namachivayam
+
+***
 
 ![AppPerformance](./memes/AppPerformance.jpg)  
 
+> Credit NaveenKumar Namachivayam
+
+***
+
 ![LoadVsServer](./memes/LoadVsServer.jpg)  
+
+> Credit NaveenKumar Namachivayam
+
+***
 
 ![PT-Experience](./memes/PT-Experience.jpg)  
 
+> Credit NaveenKumar Namachivayam
+
+***
+
 ![Selenium](./memes/Selenium.jpg)  
 
-![RTVsErrors](./memes/RTVsErrors.jpg)
+> Credit NaveenKumar Namachivayam
+
+***
+
+![RTVsErrors](./memes/RTVsErrors.jpg)  
+
+> Credit NaveenKumar Namachivayam
+
+***
 
 
 > 🙏 Please credit QAInsights, if you are using the above memes
