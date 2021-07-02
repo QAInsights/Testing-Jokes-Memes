@@ -1,0 +1,32 @@
+# Contribution Guidelines
+
+👋 Thank you for adding joke/meme.
+
+## Adding meme
+
+At the top of the page, add your meme as below followed by ***
+
+```
+Add your image to images dir.
+Add reference in the README file at the bottom.
+![ALT TEXT](./images/<path of file>.jpeg)
+
+***
+```
+
+## Adding joke
+
+
+```
+Joke
+
+> <p align="left">Author Name via <a href="https://example.com">Reference Link</a></p>
+
+***
+
+***
+- Submitting a PR
+- Fork and clone the repository
+- Add your item at the end of the appropriate section after adding a line. Memes go at the top. Jokes go at the bottom.
+- Push to your fork and submit a PR
+- Meanwhile, laugh at your own joke and wait for your PR to be reviewed and merged.
