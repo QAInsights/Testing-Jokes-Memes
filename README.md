@@ -24,6 +24,14 @@
 ***
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/RTVsErrors.jpg" />
+</p>
+
+> Credit: NaveenKumar Namachivayam
+
+***
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/GruPlan.jpg" />
 </p>
 
@@ -65,14 +73,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/Selenium.jpg" />
-</p>
-
-> Credit: NaveenKumar Namachivayam
-
-***
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/RTVsErrors.jpg" />
 </p>
 
 > Credit: NaveenKumar Namachivayam
