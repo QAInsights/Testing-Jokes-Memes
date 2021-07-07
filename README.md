@@ -1,7 +1,6 @@
 # 😆 Software Testing Jokes/Memes
 
 > 👨‍🎓 Educating Software Testing via Memes and Jokes  
-> 😎 Collection of software testing related jokes/memes.  
 > ✍ Send me a PR if you know a good joke or meme. Please add the credit if available.  
 > 🙏 Please credit the authors, if you are using the memes or jokes.
 
