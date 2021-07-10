@@ -7,6 +7,13 @@
 
 ## 🎨 Memes ⚡
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/L1-L2-L3-Memory.jpeg" />
+</p>
+
+> Credit: NaveenKumar Namachivayam
+
+***
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/Heckles-SLA.jpg" />
