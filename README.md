@@ -8,6 +8,13 @@
 ## 🎨 Memes ⚡
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/Optimize.jpg" />
+</p>
+
+> Credit: NaveenKumar Namachivayam
+
+***
+<p align="center">
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/Everywhere.jpg" />
 </p>
 
