@@ -8,6 +8,14 @@
 ## 🎨 Memes ⚡
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/Gru-Recording.jpeg" />
+</p>
+
+> Credit: NaveenKumar Namachivayam
+
+***
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/Vertical-Horizontal-Scaling.jpeg" />
 </p>
 
