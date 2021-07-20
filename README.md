@@ -8,6 +8,28 @@
 ## 🎨 Memes ⚡
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/APM-Observability.jpeg" />
+</p>
+
+> Credit: NaveenKumar Namachivayam
+
+***
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/StressTesting-Thanos.jpeg" />
+</p>
+
+> Credit: NaveenKumar Namachivayam
+
+***
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/Tracing-Thanos.jpeg" />
+</p>
+
+> Credit: NaveenKumar Namachivayam
+
+***
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/Locust-Recording.jpg" />
 </p>
 
