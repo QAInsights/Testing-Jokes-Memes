@@ -179,6 +179,24 @@ First real customer walks in and asks where the bathroom is. The bar bursts into
 *I have a joke about LoadRunner, but my think time is too high.*  
 > <p align="left">NaveenKumar Namachivayam via <a href="https://www.linkedin.com/posts/naveenkumarn_loadrunner-performancetesting-activity-6696591926348582912-Mu1K/">LinkedIn</a></p>
 
+"Hi, I'd like to hear a TCP joke"
+
+"Hi, would you like to hear a TCP joke?"
+
+"Yes, I'd like to hear a TCP joke"
+
+"OK, I'll tell a TCP joke"
+
+"OK, tell me a TCP joke"
+
+"Are you ready to hear a TCP joke?"
+
+"Yes, I'm ready for a TCP joke"
+
+"I'm sorry, your connection has timed out"*
+
+> <p align="left">Jen Gentleman via <a href="https://twitter.com/JenMsft/status/1418795414434717696?s=20">Twitter</a>
+
 
 # 🙏 Contributions
 
