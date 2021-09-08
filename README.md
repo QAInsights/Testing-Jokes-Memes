@@ -8,7 +8,7 @@
 ## 🎨 Memes ⚡
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/10years-performance-testing.jpeg" />
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/10years-performance-testing.jpg" />
 </p>
 
 > Credit: NaveenKumar Namachivayam
