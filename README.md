@@ -8,6 +8,12 @@
 ## 🎨 Memes ⚡
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/10years-performance-testing.jpeg" />
+</p>
+
+> Credit: NaveenKumar Namachivayam
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/QAInsights/Testing-Jokes-Memes/master/memes/HarryPotter.jpeg" />
 </p>
 
